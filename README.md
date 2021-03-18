@@ -1,0 +1,2 @@
+# problem_BOJ_samsung
+problem_BOJ_samsung
